@@ -5,3 +5,5 @@ username.py contains answer for question 3
 while running the apps please make sure that you installed all the requirenments i have tested all the files 
 and its running on my side 
 in case you face any dificulties for running it try to contact me
+add .env file with 
+OPENAI_API_KEY="your api key"
